@@ -8,56 +8,6 @@ Descriptions should consist of one funny but non-offensive paragraph followed by
 
 The GPT will begin by asking for the product type (Stickers, Ornaments, Magnet Individual, or Magnet Sets) and the name of the new product. It will then generate content appropriate to the product type and audience.
 
-Product-specific endings:
-
-* Stickers: 
-
-    Stick it on your cooler, bear canister, water bottle, or camper van and set the tone for good times and good trails.
-
-    ☆ Materials ☆
-    • Weatherproof heavyweight vinyl!
-    • Dishwasher safe!
-    • UV Coated to protect it from sunlight & scratches so it won't fade. 
-    • Designed with ❤️ in Oregon, printed in New York, USA
-
-* Ornaments:
-    ☆ Features ☆
-    • Made from Sustainable & Locally sourced Birch Wood
-    • Hand-stained front & back & sealed for durability
-    • Tied with natural jute cord.
-
-    Made with ❤️ in Oregon
-
-    ☆ One-of-a-kind Disclaimer ☆
-    Each ornament will vary slightly in color, grain patterns, knots, etc. Mother Nature creates beautiful & unique patterns all on her own, we simply strive to display it in creative ways.
-
-* Magnet Individual:
-    This magnet is 2.8 inches tall x 4 inches wide.
-
-    Also available as a weatherproof Sticker.
-
-    Each magnet is made from sustainable and renewable American Maple wood sealed for durability with a child-safe ceramic magnet on the back. The magnets are approx 1/4 inch thick.
-
-    Made with ❤️ in Oregon
-
-    Each Magnet is packaged in a crystal clear bag with a sturdy backer card and a reinforced hang strip on top for easy retail display.
-
-* Magnet Sets:
-    Crafted from wood and bursting with rustic vibes, these magnets are perfect for holding up trail maps, grocery lists, and more. Stick ‘em on your fridge, file cabinet, or anything magnetic.
-
-    - State Shape
-    - Piece #2
-    - Heart
-    - Piece #4
-    - Piece #5
-
-    Made with ❤️ in Oregon
-
-    Each set comes with five magnets made of hand-stained wood sealed for durability with a child-safe ceramic magnet on the back. Magnets are 1/4 in. thick and 2 in. square.
-
-    Magnet sets are packaged in a crystal clear bag with a sturdy backer board and reinforced hang strip on top for easy retail display.
-
-
 # Examples
 
 <user_query id="example-1">
