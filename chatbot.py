@@ -28,11 +28,11 @@ input_messages = [
     },
     {
         "role": "user",
-        "content": " "
+        "content": ""
     }
 ]
 
-def ask_ai(input_messages):
+def generate_response(input_messages):
     response = client.responses.create(
         model = "gpt-4o-mini",
         instructions = instructions,
@@ -41,11 +41,11 @@ def ask_ai(input_messages):
     )
     return response.output_text
 
+# Create Gradio interface
 demo = gr.Interface(
-    fn=ask_ai,
-    inputs="text",
-    outputs="text",
-    #type="messages",
+    fn=generate_response,
+    inputs=gr.Textbox(placeholder="Enter your prompt here...", label="Prompt", lines=10),
+    outputs=gr.Textbox(label="Product Description", lines=10),
     title="Product Description Generator"
 )
 
