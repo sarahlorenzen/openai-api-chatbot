@@ -5,7 +5,7 @@ import os
 
 # Load environment variables
 # Huggingface provided OpenAI API Key in Spaces > Settings > Secret Keys
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+openai_api_key = os.getenv("OPENAI_API_KEY")
 
 client = OpenAI()
 
