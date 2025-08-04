@@ -2,9 +2,13 @@
 import gradio as gr
 from dotenv import load_dotenv
 from openai import OpenAI
+import os
 
 # Load environment variables
 load_dotenv()
+
+#Huggingface provided GPT4 OpenAI API Key 
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 client = OpenAI()
 
